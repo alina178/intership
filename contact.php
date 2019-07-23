@@ -38,7 +38,7 @@ require_once "insert_select.php";
             <div class="col-sm-4">
                 <input type="text" class="form-control" placeholder=" rate" name="rate" required="required">
             </div>
-            <div class="col-sm-4 " >
+            <div class="col-sm-4 rate" >
                     <span class="glyphicon glyphicon-star star glp " aria-hidden="true" ></span>
                     <span class="glyphicon glyphicon-star star glp " aria-hidden="true"></span>
                     <span class="glyphicon glyphicon-star star glp" aria-hidden="true"></span>

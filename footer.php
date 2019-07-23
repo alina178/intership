@@ -34,7 +34,7 @@
                 <h1 >Get in touch with us</h1><br>
                 <b>Flattern studio, Pte Ltd</b>
                 <p>Springville center X264, Park Ave S.01</p>
-                <p class="phone">(123)456-789- (123)555-7412</p>c
+                <p class="phone">(123)456-789- (123)555-7412</p>
                 <p class="email" >email@domainnamwe.com</p>
             </div>
         </div>
